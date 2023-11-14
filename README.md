@@ -80,3 +80,6 @@ nginx_container
 8. Docker Network Remove
    docker network rm my_network
 my_network
+
+9. README.md file created and codebase repository pushed to GitHub
+    
